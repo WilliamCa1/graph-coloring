@@ -1,2 +1,3 @@
-Run 1.py to get the adjacent matrix(tt.txt) and coloring method in(c.txt).
-Run 2.py to see the colored graph.
+1. Run algo.py to get the adjacent matrix(tt.txt) and coloring method in(c.txt). <br />
+
+2. Run visualize.py to see the colored graph
